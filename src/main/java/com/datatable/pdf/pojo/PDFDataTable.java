@@ -8,7 +8,9 @@ import java.util.Map;
 
 /**
  * @author Vijay Joshi
- *
+ * Representation of Data Table Object.
+ * This Data Table Object will be used map header and data set
+ * to be converted in PDF table.
  */
 public class PDFDataTable {
 

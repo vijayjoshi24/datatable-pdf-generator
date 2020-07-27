@@ -23,7 +23,10 @@ import com.datatable.pdf.util.PDFUtil;
 
 /**
  * @author Vijay Joshi
- *
+ *This is a rest controller for testing generate PDF Utility
+ *A sample request format has been created which is used a base request
+ *object for PDF utility.
+ *PDFUtility.generateDataTablePDF is uses this respective input object.
  */
 @RestController
 @RequestMapping("/pdfGenerator")

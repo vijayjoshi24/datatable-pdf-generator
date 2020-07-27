@@ -7,6 +7,9 @@ import org.apache.pdfbox.pdmodel.common.PDRectangle;
 
 /**
  * @author Vijay Joshi
+ * PDFInput is wrapper utility for PDFDataTable object
+ * This input is generalized form of input required for 
+ * PDFUtil.generateDataTable
  *
  */
 public class PDFInput {

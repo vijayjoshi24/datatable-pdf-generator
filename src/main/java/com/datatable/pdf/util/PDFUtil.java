@@ -16,6 +16,14 @@ import org.apache.pdfbox.pdmodel.font.PDFont;
 import org.apache.pdfbox.pdmodel.font.PDType1Font;
 import com.datatable.pdf.pojo.PDFInput;
 
+/**
+ * 
+ * @author Vijay Joshi
+ * This is the core class to render PDF content for data table format
+ * content.
+ * It utilizes Apache PDF utility and generalizes PDF content generation 
+ * for data table specific use cases.
+ */
 public class PDFUtil {
 	
 	public static final PDFont FONT            = PDType1Font.TIMES_ROMAN;
