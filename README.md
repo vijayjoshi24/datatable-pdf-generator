@@ -26,7 +26,7 @@ Sample output response generated for sample code snippet.
 
 Following are some possible next steps which can further improve and enhance this overall concept:
 
-1. Addressing complexities and more use cases built around PDG report generation.
+1. Addressing complexities and more use cases built around PDF report generation.
 2. Including other reporting wrappers such spread-sheet, XML, TEXT based or Chart based wrappers.
 
 
